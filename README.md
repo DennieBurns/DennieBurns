@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DennieBurns
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 I’m @DennieBurns...🖖🏽
+- 👀 I’m interested in...:computer: 
+- 🌱 I’m currently learning...:snake: .py
+- 💞️ I’m looking to collaborate on ...:snake: .py
+- 📩 I'm dbonesaw@gmail.com  
 
 <!---
 DennieBurns/DennieBurns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
