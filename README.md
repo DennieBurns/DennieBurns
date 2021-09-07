@@ -1,7 +1,7 @@
-- 👋 I’m @DennieBurns...🖖🏽
-- 👀 I’m interested in...:computer: 
-- 🌱 I’m currently learning...:snake: .py
-- 💞️ I’m looking to collaborate on ...:snake: .py
+- 👋 I’m @DennieBurns🧒🏽
+- 👀 I’m interested in:computer: 
+- 🌱 I’m currently learning:snake:.py
+- 💞️ I’m looking to collaborate on:snake:.py
 - 📩 I'm dbonesaw@gmail.com  
 
 <!---
